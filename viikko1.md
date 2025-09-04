@@ -18,5 +18,6 @@ ostoslista:
 -munia
 -makkaraa
 
-´print(Hello World)´
+Koodia `print(Hello World)`
+
 

@@ -18,6 +18,8 @@
 | Otsikko | Muuttuja |
 -----------|-----------
 | Saatujen kalojen lkm | 13 |
+| Tyytyväisyysaste | 8/10 |
+
 
 ![Ahven](https://s3.animalia.bio/animals/photos/full/original/d31491-yellow-perch-perca-flavescens.webp "Ahven")
 

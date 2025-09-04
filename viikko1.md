@@ -26,11 +26,10 @@ Koodia `print(Hello World)`
 
 Nyt opettellaan käyttämään [Github](https://github.com)
 
-| Hieno | Taulukko |
---------------------
 | Otsikko | Muuttuja |
 ----------------------
 | Saatujen kalojen lkm | 13 |
+
 
 
 

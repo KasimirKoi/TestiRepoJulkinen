@@ -2,10 +2,10 @@
 
 ## Hei! Olen paljasjalkainen Oululainen.
 
-### **Olen työskennellyt** kaupan alalla noin 4. vuoden ajan ja olen myös opiskellut fysioterapian ammattikorkeakouluopintoja. Tieto- ja viestintätekniikkaan olen tutustunut Metropolian avoimen ammattikorkeakoulun kautta jo 68 nopan verran.
+### Olen työskennellyt kaupan alalla noin 4. vuoden ajan ja olen myös opiskellut fysioterapian ammattikorkeakouluopintoja. Tieto- ja viestintätekniikkaan olen tutustunut Metropolian avoimen ammattikorkeakoulun kautta jo 68 nopan verran.
 
 ### *Odotan innolla alkavia opintoja.* Olen erityisen kiinnostunut ohjelmoinnista ja kaikesta sovelluksiin liittyvästä. Olisi siistiä päästä tekemään omia sovelluksia aiheesta kuin toisestakin.
 
 ### *Tykkään vapaa-ajalla* pelailla tietokoneella sekä pleikkarilla. Lemppari kategoria on varmaankin strategia pelit ja rogue liket. Harrastan myös koirani Murun kanssa lenkkeilyä, metsästystä ja kalastusta. 
 
-
+**lihavointia :D**

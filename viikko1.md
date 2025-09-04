@@ -1,6 +1,6 @@
 # Kasimir esittely
 
-## Hei! Olen paljasjalkainen Oululainen.
+## Hei! Olen 27-vuotias paljasjalkainen Oululainen.
 
 ### **Olen työskennellyt** kaupan alalla noin 4. vuoden ajan ja olen myös opiskellut fysioterapian ammattikorkeakouluopintoja. Tieto- ja viestintätekniikkaan olen tutustunut Metropolian avoimen ammattikorkeakoulun kautta jo 68 nopan verran.
 
@@ -26,7 +26,7 @@ ostoslista:
 -munia
 -makkaraa
 
-Koodia `print(Hello World)`
+Koodia ```print(Hello World)```
 
 Nyt opettellaan käyttämään [Github](https://github.com)
 

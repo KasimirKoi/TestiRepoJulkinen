@@ -15,6 +15,10 @@
 2. 2 haukea
 3. 2 särkeä
 
+| Otsikko | Muuttuja |
+-----------|-----------
+| Saatujen kalojen lkm | 13 |
+
 ![Ahven](https://s3.animalia.bio/animals/photos/full/original/d31491-yellow-perch-perca-flavescens.webp "Ahven")
 
 ostoslista:
@@ -26,9 +30,7 @@ Koodia `print(Hello World)`
 
 Nyt opettellaan käyttämään [Github](https://github.com)
 
-| Otsikko | Muuttuja |
------------|-----------
-| Saatujen kalojen lkm | 13 |
+
 
 
 

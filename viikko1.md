@@ -13,4 +13,10 @@
 2. 2 haukea
 3. 2 särkeä
 
+ostoslista:
+-maitoa
+-munia
+-makkaraa
+
+´print(Hello World)´
 

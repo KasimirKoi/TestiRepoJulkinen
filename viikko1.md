@@ -18,6 +18,7 @@
 | Otsikko | Muuttuja |
 -----------|-----------
 | Saatujen kalojen lkm | 13 |
+|Kalastusmetodi | virveli ja verkko |
 | Tyytyväisyysaste | 8/10 |
 
 

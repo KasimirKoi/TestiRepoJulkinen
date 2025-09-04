@@ -20,4 +20,5 @@ ostoslista:
 
 Koodia `print(Hello World)`
 
+Nyt opettellaan käyttämään [github]https://github.com/
 

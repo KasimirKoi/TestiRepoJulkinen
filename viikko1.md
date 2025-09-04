@@ -17,7 +17,6 @@
 
 ![Ahven](https://s3.animalia.bio/animals/photos/full/original/d31491-yellow-perch-perca-flavescens.webp "Ahven")
 
-
 ostoslista:
 -maitoa
 -munia
@@ -26,6 +25,11 @@ ostoslista:
 Koodia `print(Hello World)`
 
 Nyt opettellaan käyttämään [Github](https://github.com)
+
+| Hieno | Taulukko |
+--------------------
+| Otsikko | Muuttuja |
+| Saatujen kalojen lkm | 13 |
 
 
 

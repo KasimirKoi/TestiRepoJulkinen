@@ -8,7 +8,7 @@
 
 ### *Tykkään vapaa-ajalla* pelailla tietokoneella sekä pleikkarilla. Lemppari kategoria on varmaankin strategia pelit ja rogue liket. Harrastan myös koirani Murun kanssa lenkkeilyä, metsästystä ja kalastusta. 
 
-![Kuva Murusta]("C:\Users\koist\OneDrive\Tiedostot\Nappaa_Kasimir_mukaan\Muru kuva 2.JPG")
+![Kuva Murusta](C:\Users\koist\OneDrive\Tiedostot\Nappaa_Kasimir_mukaan\Muru kuva 2.JPG)
 
 
 **Listaa viikonlopun kalasaalista**

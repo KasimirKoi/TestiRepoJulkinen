@@ -29,7 +29,7 @@ ostoslista:
 -munia
 -makkaraa
 
-Koodia ```print(Hello World)```
+Koodia ```print("Hello World")```
 
 Nyt opettellaan käyttämään [Github](https://github.com)
 
